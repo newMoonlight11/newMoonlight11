@@ -6,10 +6,13 @@ I enjoy transforming ideas into scalable digital products by combining clean cod
 
 🚀 Current Focus
 
-Improving my React ecosystem knowledge
-Building an AI-powered Recipe Recommendation App
-Creating modern frontend experiences
-Preparing for international software opportunities
+• Improving my React ecosystem knowledge.
+
+• Building an AI-powered recipe recommendation app.
+
+• Creating modern frontend experiences.
+
+• Preparing for international software opportunities.
 
 💻 Tech Stack
 
