@@ -1,4 +1,4 @@
-Hi, I'm María Camila 👋
+**Hi, I'm María Camila 👋
 
 Full Stack Developer with a strong focus on building intuitive and user-centred web applications.
 
@@ -16,8 +16,12 @@ I enjoy transforming ideas into scalable digital products by combining clean cod
 
 💻 Tech Stack
 
-Vue.js • Laravel • JavaScript • TypeScript • React • React Native • PostgreSQL • Git
+Vue.js • Laravel • JavaScript • TypeScript • React • React Native • PostgreSQL • Git**
 
 🌎 Connect with me
 
+Linkedin: https://linkedin.com/in/camvzr22
+
 Linktree: https://newmoonlight11.github.io/linktree_cami/
+
+Portfolio: https://newmoonlight11.github.io/portafolio_cdds/
