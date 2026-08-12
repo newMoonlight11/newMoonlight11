@@ -1,4 +1,4 @@
-**Hi, I'm María Camila 👋
+**Hi, I'm María Camila 👋**
 
 Full Stack Developer with a strong focus on building intuitive and user-centred web applications.
 
