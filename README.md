@@ -1,6 +1,6 @@
 **Hi, I'm María Camila 👋**
 
-Full Stack Developer with a strong focus on building intuitive and user-centred web applications.
+Full Stack Developer Jr. with a strong focus on building intuitive and user-centred web applications.
 
 I enjoy transforming ideas into scalable digital products by combining clean code with thoughtful user experiences.
 
