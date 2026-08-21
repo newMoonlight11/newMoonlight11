@@ -24,4 +24,4 @@ Linkedin: https://linkedin.com/in/camvzr22
 
 Linktree: https://newmoonlight11.github.io/linktree_cami/
 
-Portfolio: https://newmoonlight11.github.io/portafolio_cdds/
+Portfolio: https://newmoonlight11.github.io/portafolio/
